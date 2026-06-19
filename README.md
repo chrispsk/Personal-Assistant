@@ -28,11 +28,7 @@ A simple Python personal assistant chatbot that uses NLP intent classification t
 Personal-Assistant/
 ├── main.py
 ├── intents.json
-├── data.pickle
-├── model.tflearn.data-00000-of-00001
-├── model.tflearn.index
-├── model.tflearn.meta
-└── readme.txt
+└── README.md
 ```
 
 ## How It Works
